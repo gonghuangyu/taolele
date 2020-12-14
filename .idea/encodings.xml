@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/1SSM-MAVEN-PARENT/SSM-ORDER-USER/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1SSM-MAVEN-PARENT/SSM-ORDER-USER/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2SPRINGBOOT-PARENT/springboot-demo01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2SPRINGBOOT-PARENT/springboot-demo02/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2SPRINGBOOT-PARENT/springboot-order-user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2SPRINGBOOT-PARENT/springboot-order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2SPRINGBOOT-PARENT/springboot-user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3SPRINGCLOUD-PARENT/config-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3SPRINGCLOUD-PARENT/config-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3SPRINGCLOUD-PARENT/eureka-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3SPRINGCLOUD-PARENT/eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3SPRINGCLOUD-PARENT/feing-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3SPRINGCLOUD-PARENT/gateway-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3SPRINGCLOUD-PARENT/ribbon-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/4EASYMALL-PARENT/easymall-cart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/4EASYMALL-PARENT/easymall-common-resources/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/4EASYMALL-PARENT/easymall-order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/4EASYMALL-PARENT/easymall-pic/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/4EASYMALL-PARENT/easymall-product-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/4EASYMALL-PARENT/easymall-product/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/4EASYMALL-PARENT/easymall-search/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/4EASYMALL-PARENT/easymall-seckill/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/4EASYMALL-PARENT/easymall-user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/4EASYMALL-PARENT/elasticsearch/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/5SECURITY-PARENT/spring-security-demo01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/5SECURITY-PARENT/spring-security-gateway-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/5SECURITY-PARENT/spring-security-oauth2-client-github/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/5SECURITY-PARENT/spring-security-oauth2-resource/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/5SECURITY-PARENT/spring-security-oauth2-resource/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/5SECURITY-PARENT/spring-security-oauth2-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/5SECURITY-PARENT/spring-session-demo01/src/main/java" charset="UTF-8" />
+  </component>
+</project>

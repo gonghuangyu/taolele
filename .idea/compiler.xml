@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SSM-ORDER-USER" />
+        <module name="order-user-service" />
+        <module name="elasticsearch" />
+        <module name="order-user-dao" />
+        <module name="feing-client" />
+        <module name="easymall-search" />
+        <module name="easymall-product-api" />
+        <module name="springboot-demo02" />
+        <module name="easymall-cart" />
+        <module name="spring-security-oauth2-client-github" />
+        <module name="easymall-pic" />
+        <module name="easymall-product" />
+        <module name="ribbon-client" />
+        <module name="easymall-seckill" />
+        <module name="spring-security-oauth2-resource" />
+        <module name="config-client" />
+        <module name="spring-security-oauth2-server" />
+        <module name="springboot-order-user" />
+        <module name="config-server" />
+        <module name="spring-security-gateway-server" />
+        <module name="easymall-common-resources" />
+        <module name="easymall-user" />
+        <module name="springboot-user" />
+        <module name="springboot-demo01" />
+        <module name="eureka-server" />
+        <module name="spring-security-demo01" />
+        <module name="easymall-order" />
+        <module name="spring-session-demo01" />
+        <module name="gateway-server" />
+        <module name="springboot-order" />
+        <module name="eureka-client" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="EASYMALL-SSM" target="1.5" />
+      <module name="springboot-demo-demo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="4EASYMALL-PARENT" options="-parameters" />
+      <module name="config-client" options="-parameters" />
+      <module name="config-server" options="-parameters" />
+      <module name="easymall-cart" options="-parameters" />
+      <module name="easymall-common-resources" options="-parameters" />
+      <module name="easymall-order" options="-parameters" />
+      <module name="easymall-pic" options="-parameters" />
+      <module name="easymall-product" options="-parameters" />
+      <module name="easymall-product-api" options="-parameters" />
+      <module name="easymall-search" options="-parameters" />
+      <module name="easymall-seckill" options="-parameters" />
+      <module name="easymall-user" options="-parameters" />
+      <module name="elasticsearch" options="-parameters" />
+      <module name="eureka-client" options="-parameters" />
+      <module name="eureka-server" options="-parameters" />
+      <module name="feing-client" options="-parameters" />
+      <module name="gateway-server" options="-parameters" />
+      <module name="ribbon-client" options="-parameters" />
+      <module name="spring-security-demo01" options="-parameters" />
+      <module name="spring-security-gateway-server" options="-parameters" />
+      <module name="spring-security-oauth2-client-github" options="-parameters" />
+      <module name="spring-security-oauth2-resource" options="-parameters" />
+      <module name="spring-security-oauth2-server" options="-parameters" />
+      <module name="spring-session-demo01" options="-parameters" />
+      <module name="springboot-demo-demo" options="-parameters" />
+      <module name="springboot-demo01" options="-parameters" />
+      <module name="springboot-demo02" options="-parameters" />
+      <module name="springboot-order" options="-parameters" />
+      <module name="springboot-order-user" options="-parameters" />
+      <module name="springboot-user" options="-parameters" />
+    </option>
+  </component>
+</project>

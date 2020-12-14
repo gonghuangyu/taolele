@@ -1,0 +1,924 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SSM-ORDER-USER:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b488b146-5324-4bf3-9bb6-a7994b92d607" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/software/maven3.6" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1irY5N4bvD894R3n1PFh59ZVHqF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/5SECURITY-PARENT/spring-security-demo01/src/main/java/cn/tedu/mapper" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/4EASYMALL-PARENT/easymall-search/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.1970803" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="spring.boot" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ideaworkspace\bigdata-parent\5SECURITY-PARENT\spring-security-oauth2-client-github\src\main\resources\static" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideaworkspace\bigdata-parent\4EASYMALL-PARENT\easymall-search\src\main\resources" />
+      <recent name="D:\ideaworkspace\bigdata-parent\4EASYMALL-PARENT\easymall-user\src\test\resources" />
+      <recent name="D:\ideaworkspace\bigdata-parent\4EASYMALL-PARENT\easymall-user\src\test\java\cn\tedu\analyzer" />
+      <recent name="D:\ideaworkspace\bigdata-parent\4EASYMALL-PARENT\easymall-user\src\lib" />
+      <recent name="D:\ideaworkspace\bigdata-parent\4EASYMALL-PARENT\easymall-order\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.tedu.config" />
+      <recent name="cn.tedu.rabbitmq" />
+      <recent name="cn.tedu.search.config" />
+      <recent name="cn.tedu" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="cn.tedu.service" />
+      <recent name="cn.tedu.pic.service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.StarterZuul">
+    <configuration name="StarterEurekaServer8762" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cn.tedu.StarterEurekaServer" />
+      <module name="eureka-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tedu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StarterConfigServer8198" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="config-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tedu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tedu.StarterConfigServer" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <additionalParameters>
+        <param>
+          <option name="enabled" value="true" />
+          <option name="name" value="server.port" />
+          <option name="value" value="8198" />
+        </param>
+      </additionalParameters>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StarterDemo01-8080" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-security-demo01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tedu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tedu.StarterDemo01" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StarterDemo01-8081" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-security-demo01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tedu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tedu.StarterDemo01" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <additionalParameters>
+        <param>
+          <option name="enabled" value="true" />
+          <option name="name" value="server.port" />
+          <option name="value" value="8081" />
+        </param>
+      </additionalParameters>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StarterDemo01" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-demo01" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tedu.StarterDemo01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StarterEurekaClient(8091)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tedu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tedu.StarterEurekaClient" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <additionalParameters>
+        <param>
+          <option name="enabled" value="true" />
+          <option name="name" value="server.port" />
+          <option name="value" value="8091" />
+        </param>
+      </additionalParameters>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StarterEurekaClient(8092)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tedu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tedu.StarterEurekaClient" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <additionalParameters>
+        <param>
+          <option name="enabled" value="true" />
+          <option name="name" value="server.port" />
+          <option name="value" value="8092" />
+        </param>
+      </additionalParameters>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StarterEurekaClient(8093)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tedu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tedu.StarterEurekaClient" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <additionalParameters>
+        <param>
+          <option name="enabled" value="true" />
+          <option name="name" value="server.port" />
+          <option name="value" value="8093" />
+        </param>
+      </additionalParameters>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StarterGitHubClient" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-security-oauth2-client-github" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tedu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tedu.StarterGitHubClient" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StarterOU-8091" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-order-user" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tedu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tedu.StarterOU" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StarterOU-8092" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-order-user" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tedu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tedu.StarterOU" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <additionalParameters>
+        <param>
+          <option name="enabled" value="true" />
+          <option name="name" value="server.port" />
+          <option name="value" value="8092" />
+        </param>
+      </additionalParameters>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StarterOU-8093" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-order-user" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tedu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tedu.StarterOU" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <additionalParameters>
+        <param>
+          <option name="enabled" value="true" />
+          <option name="name" value="server.port" />
+          <option name="value" value="8093" />
+        </param>
+      </additionalParameters>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StarterOauthServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-security-oauth2-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tedu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tedu.StarterOauthServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StarterProduct" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="easymall-product" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tedu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tedu.StarterProduct" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StarterResource" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-security-oauth2-resource" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tedu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tedu.StarterResource" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StarterSession-8092" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-session-demo01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tedu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tedu.StarterSession" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <additionalParameters>
+        <param>
+          <option name="enabled" value="true" />
+          <option name="name" value="server.port" />
+          <option name="value" value="8092" />
+        </param>
+      </additionalParameters>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StarterSession-8093" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-session-demo01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tedu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tedu.StarterSession" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <additionalParameters>
+        <param>
+          <option name="enabled" value="true" />
+          <option name="name" value="server.port" />
+          <option name="value" value="8093" />
+        </param>
+      </additionalParameters>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StarterZuul" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-security-gateway-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tedu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tedu.StarterZuul" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eureka_server_8761" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tedu.StarterEurekaServer" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eureka_server_8762" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tedu.StarterEurekaServer" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <additionalParameters>
+        <param>
+          <option name="enabled" value="true" />
+          <option name="name" value="server.port" />
+          <option name="value" value="8762" />
+        </param>
+        <param>
+          <option name="enabled" value="true" />
+          <option name="name" value="eureka.client.service-url.defaultZone" />
+          <option name="value" value="http://localhost:8761/eureka" />
+        </param>
+      </additionalParameters>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EASYMALL-SSS" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.23" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost/index.jsp" />
+      <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="EASYMALL-SSM:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="SSM-ORDER-USER_(1)_bigdata-parent" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54512" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="EASYMALL-SSM:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="SSM-ORDER-USER" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.23" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:80/index.html" />
+      <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="SSM-ORDER-USER:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_0_23_bigdata-parent" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54512" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="SSM-ORDER-USER:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.23" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_Default_(Template)_Project" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54512" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.StarterEurekaServer8762" />
+      <item itemvalue="Spring Boot.eureka_server_8761" />
+      <item itemvalue="Spring Boot.eureka_server_8762" />
+      <item itemvalue="Spring Boot.StarterOU-8092" />
+      <item itemvalue="Spring Boot.StarterOU-8091" />
+      <item itemvalue="Spring Boot.StarterOU-8093" />
+      <item itemvalue="Spring Boot.StarterEurekaClient(8092)" />
+      <item itemvalue="Spring Boot.StarterEurekaClient(8091)" />
+      <item itemvalue="Spring Boot.StarterEurekaClient(8093)" />
+      <item itemvalue="Spring Boot.StarterDemo01" />
+      <item itemvalue="Spring Boot.StarterConfigServer8198" />
+      <item itemvalue="Spring Boot.StarterDemo01-8081" />
+      <item itemvalue="Spring Boot.StarterDemo01-8080" />
+      <item itemvalue="Spring Boot.StarterSession-8093" />
+      <item itemvalue="Spring Boot.StarterSession-8092" />
+      <item itemvalue="Tomcat Server.SSM-ORDER-USER" />
+      <item itemvalue="Tomcat Server.EASYMALL-SSS" />
+      <item itemvalue="Spring Boot.StarterOauthServer" />
+      <item itemvalue="Spring Boot.StarterGitHubClient" />
+      <item itemvalue="Spring Boot.StarterResource" />
+      <item itemvalue="Spring Boot.StarterProduct" />
+      <item itemvalue="Spring Boot.StarterZuul" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.StarterZuul" />
+        <item itemvalue="Spring Boot.StarterProduct" />
+        <item itemvalue="Spring Boot.StarterResource" />
+        <item itemvalue="Spring Boot.StarterGitHubClient" />
+        <item itemvalue="Spring Boot.StarterOauthServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.11134454" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b488b146-5324-4bf3-9bb6-a7994b92d607" name="Default Changelist" comment="" />
+      <created>1602666993440</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602666993440</updated>
+      <workItem from="1602666994767" duration="947000" />
+      <workItem from="1602723395008" duration="8350000" />
+      <workItem from="1602732866130" duration="1038000" />
+      <workItem from="1602733930761" duration="14393000" />
+      <workItem from="1602810203682" duration="13603000" />
+      <workItem from="1603069302022" duration="16753000" />
+      <workItem from="1603155707392" duration="7559000" />
+      <workItem from="1603173759635" duration="6748000" />
+      <workItem from="1603242073968" duration="16603000" />
+      <workItem from="1603329602712" duration="14808000" />
+      <workItem from="1603683914617" duration="10872000" />
+      <workItem from="1603761035466" duration="8104000" />
+      <workItem from="1603847183260" duration="1456000" />
+      <workItem from="1603848668185" duration="20783000" />
+      <workItem from="1604019602913" duration="6702000" />
+      <workItem from="1604366032518" duration="8178000" />
+      <workItem from="1604397028450" duration="43000" />
+      <workItem from="1604459766563" duration="13621000" />
+      <workItem from="1604539003561" duration="7660000" />
+      <workItem from="1604578948740" duration="100000" />
+      <workItem from="1604625727482" duration="4812000" />
+      <workItem from="1604883925196" duration="9129000" />
+      <workItem from="1604909528613" duration="4283000" />
+      <workItem from="1604920967960" duration="66000" />
+      <workItem from="1604970527615" duration="39206000" />
+      <workItem from="1605143345711" duration="9053000" />
+      <workItem from="1605153722549" duration="175000" />
+      <workItem from="1605160616781" duration="16935000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="104" y="16" key="#Project_Structure" timestamp="1605233820017">
+      <screen x="0" y="0" width="1024" height="738" />
+    </state>
+    <state x="104" y="15" key="#Project_Structure/0.0.1024.707@0.0.1024.707" timestamp="1604469957485" />
+    <state x="104" y="16" key="#Project_Structure/0.0.1024.738@0.0.1024.738" timestamp="1605233820017" />
+    <state x="0" y="11" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605163558106">
+      <screen x="0" y="0" width="1024" height="738" />
+    </state>
+    <state x="0" y="11" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1024.707@0.0.1024.707" timestamp="1603853784704" />
+    <state x="0" y="11" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1024.738@0.0.1024.738" timestamp="1605163558106" />
+    <state x="231" y="169" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604998384720">
+      <screen x="0" y="0" width="1024" height="738" />
+    </state>
+    <state x="231" y="162" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1024.707@0.0.1024.707" timestamp="1604461899480" />
+    <state x="231" y="169" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1024.738@0.0.1024.738" timestamp="1604998384720" />
+    <state x="317" y="48" key="#com.intellij.ide.util.MemberChooser" timestamp="1605237805246">
+      <screen x="0" y="0" width="1024" height="738" />
+    </state>
+    <state x="317" y="46" key="#com.intellij.ide.util.MemberChooser/0.0.1024.707@0.0.1024.707" timestamp="1603853385145" />
+    <state x="317" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1024.738@0.0.1024.738" timestamp="1605237805246" />
+    <state x="230" y="137" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1603160110762">
+      <screen x="0" y="0" width="1024" height="707" />
+    </state>
+    <state x="230" y="137" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1024.707@0.0.1024.707" timestamp="1603160110762" />
+    <state x="104" y="14" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1602731467764">
+      <screen x="0" y="0" width="1024" height="707" />
+    </state>
+    <state x="104" y="14" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1024.707@0.0.1024.707" timestamp="1602731467764" />
+    <state x="18" y="297" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1605237585546">
+      <screen x="0" y="0" width="1024" height="738" />
+    </state>
+    <state x="18" y="297" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1024.738@0.0.1024.738" timestamp="1605237585546" />
+    <state x="242" y="103" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603088306167">
+      <screen x="0" y="0" width="1024" height="707" />
+    </state>
+    <state x="242" y="103" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1024.707@0.0.1024.707" timestamp="1603088306167" />
+    <state x="259" y="71" key="DetectedRootsChooserDialog" timestamp="1604469956729">
+      <screen x="0" y="0" width="1024" height="707" />
+    </state>
+    <state x="259" y="71" key="DetectedRootsChooserDialog/0.0.1024.707@0.0.1024.707" timestamp="1604469956729" />
+    <state x="292" y="111" key="FileChooserDialogImpl" timestamp="1604469955544">
+      <screen x="0" y="0" width="1024" height="707" />
+    </state>
+    <state x="292" y="111" key="FileChooserDialogImpl/0.0.1024.707@0.0.1024.707" timestamp="1604469955544" />
+    <state width="981" height="514" key="GridCell.Tab.0.bottom" timestamp="1605239768967">
+      <screen x="0" y="0" width="1024" height="738" />
+    </state>
+    <state width="981" height="541" key="GridCell.Tab.0.bottom/0.0.1024.707@0.0.1024.707" timestamp="1604653066119" />
+    <state width="981" height="514" key="GridCell.Tab.0.bottom/0.0.1024.738@0.0.1024.738" timestamp="1605239768967" />
+    <state width="981" height="514" key="GridCell.Tab.0.center" timestamp="1605239768966">
+      <screen x="0" y="0" width="1024" height="738" />
+    </state>
+    <state width="981" height="541" key="GridCell.Tab.0.center/0.0.1024.707@0.0.1024.707" timestamp="1604653066119" />
+    <state width="981" height="514" key="GridCell.Tab.0.center/0.0.1024.738@0.0.1024.738" timestamp="1605239768966" />
+    <state width="981" height="514" key="GridCell.Tab.0.left" timestamp="1605239768966">
+      <screen x="0" y="0" width="1024" height="738" />
+    </state>
+    <state width="981" height="541" key="GridCell.Tab.0.left/0.0.1024.707@0.0.1024.707" timestamp="1604653066119" />
+    <state width="981" height="514" key="GridCell.Tab.0.left/0.0.1024.738@0.0.1024.738" timestamp="1605239768966" />
+    <state width="981" height="514" key="GridCell.Tab.0.right" timestamp="1605239768967">
+      <screen x="0" y="0" width="1024" height="738" />
+    </state>
+    <state width="981" height="541" key="GridCell.Tab.0.right/0.0.1024.707@0.0.1024.707" timestamp="1604653066119" />
+    <state width="981" height="514" key="GridCell.Tab.0.right/0.0.1024.738@0.0.1024.738" timestamp="1605239768967" />
+    <state width="981" height="514" key="GridCell.Tab.1.bottom" timestamp="1605239768967">
+      <screen x="0" y="0" width="1024" height="738" />
+    </state>
+    <state width="981" height="19" key="GridCell.Tab.1.bottom/0.0.1024.707@0.0.1024.707" timestamp="1604558400503" />
+    <state width="981" height="514" key="GridCell.Tab.1.bottom/0.0.1024.738@0.0.1024.738" timestamp="1605239768967" />
+    <state width="981" height="514" key="GridCell.Tab.1.center" timestamp="1605239768967">
+      <screen x="0" y="0" width="1024" height="738" />
+    </state>
+    <state width="981" height="19" key="GridCell.Tab.1.center/0.0.1024.707@0.0.1024.707" timestamp="1604558400503" />
+    <state width="981" height="514" key="GridCell.Tab.1.center/0.0.1024.738@0.0.1024.738" timestamp="1605239768967" />
+    <state width="981" height="514" key="GridCell.Tab.1.left" timestamp="1605239768967">
+      <screen x="0" y="0" width="1024" height="738" />
+    </state>
+    <state width="981" height="19" key="GridCell.Tab.1.left/0.0.1024.707@0.0.1024.707" timestamp="1604558400503" />
+    <state width="981" height="514" key="GridCell.Tab.1.left/0.0.1024.738@0.0.1024.738" timestamp="1605239768967" />
+    <state width="981" height="514" key="GridCell.Tab.1.right" timestamp="1605239768967">
+      <screen x="0" y="0" width="1024" height="738" />
+    </state>
+    <state width="981" height="19" key="GridCell.Tab.1.right/0.0.1024.707@0.0.1024.707" timestamp="1604558400503" />
+    <state width="981" height="514" key="GridCell.Tab.1.right/0.0.1024.738@0.0.1024.738" timestamp="1605239768967" />
+    <state width="981" height="12" key="GridCell.Tab.2.bottom" timestamp="1605153290297">
+      <screen x="0" y="0" width="1024" height="738" />
+    </state>
+    <state width="981" height="2" key="GridCell.Tab.2.bottom/0.0.1024.707@0.0.1024.707" timestamp="1603352964169" />
+    <state width="981" height="12" key="GridCell.Tab.2.bottom/0.0.1024.738@0.0.1024.738" timestamp="1605153290297" />
+    <state width="981" height="12" key="GridCell.Tab.2.center" timestamp="1605153290297">
+      <screen x="0" y="0" width="1024" height="738" />
+    </state>
+    <state width="981" height="2" key="GridCell.Tab.2.center/0.0.1024.707@0.0.1024.707" timestamp="1603352964169" />
+    <state width="981" height="12" key="GridCell.Tab.2.center/0.0.1024.738@0.0.1024.738" timestamp="1605153290297" />
+    <state width="981" height="12" key="GridCell.Tab.2.left" timestamp="1605153290297">
+      <screen x="0" y="0" width="1024" height="738" />
+    </state>
+    <state width="981" height="2" key="GridCell.Tab.2.left/0.0.1024.707@0.0.1024.707" timestamp="1603352964169" />
+    <state width="981" height="12" key="GridCell.Tab.2.left/0.0.1024.738@0.0.1024.738" timestamp="1605153290297" />
+    <state width="981" height="12" key="GridCell.Tab.2.right" timestamp="1605153290297">
+      <screen x="0" y="0" width="1024" height="738" />
+    </state>
+    <state width="981" height="2" key="GridCell.Tab.2.right/0.0.1024.707@0.0.1024.707" timestamp="1603352964169" />
+    <state width="981" height="12" key="GridCell.Tab.2.right/0.0.1024.738@0.0.1024.738" timestamp="1605153290297" />
+    <state x="15" y="14" key="SettingsEditor" timestamp="1604893557437">
+      <screen x="0" y="0" width="1024" height="738" />
+    </state>
+    <state x="-1" y="0" key="SettingsEditor/0.0.1024.707@0.0.1024.707" timestamp="1604400497315" />
+    <state x="15" y="14" key="SettingsEditor/0.0.1024.738@0.0.1024.738" timestamp="1604893557437" />
+    <state x="311" y="140" key="chooseDestDirectoryDialog" timestamp="1605148141344">
+      <screen x="0" y="0" width="1024" height="738" />
+    </state>
+    <state x="311" y="134" key="chooseDestDirectoryDialog/0.0.1024.707@0.0.1024.707" timestamp="1603352407657" />
+    <state x="311" y="140" key="chooseDestDirectoryDialog/0.0.1024.738@0.0.1024.738" timestamp="1605148141344" />
+    <state x="30" y="96" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1605152063315">
+      <screen x="0" y="0" width="1024" height="738" />
+    </state>
+    <state x="30" y="92" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1024.707@0.0.1024.707" timestamp="1603180509408" />
+    <state x="30" y="96" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1024.738@0.0.1024.738" timestamp="1605152063315" />
+    <state x="242" y="118" key="extract.method.dialog" timestamp="1604884907208">
+      <screen x="0" y="0" width="1024" height="738" />
+    </state>
+    <state x="242" y="113" key="extract.method.dialog/0.0.1024.707@0.0.1024.707" timestamp="1603695375242" />
+    <state x="242" y="118" key="extract.method.dialog/0.0.1024.738@0.0.1024.738" timestamp="1604884907208" />
+    <state x="-125" y="131" width="943" height="490" key="find.popup" timestamp="1605153763435">
+      <screen x="0" y="0" width="1024" height="738" />
+    </state>
+    <state x="-125" y="131" width="943" height="490" key="find.popup/0.0.1024.738@0.0.1024.738" timestamp="1605153763435" />
+    <state x="0" y="59" key="new project wizard" timestamp="1605239238970">
+      <screen x="0" y="0" width="1024" height="738" />
+    </state>
+    <state x="0" y="57" key="new project wizard/0.0.1024.707@0.0.1024.707" timestamp="1604539046116" />
+    <state x="0" y="59" key="new project wizard/0.0.1024.738@0.0.1024.738" timestamp="1605239238970" />
+    <state x="168" y="165" key="run.anything.popup" timestamp="1604912445984">
+      <screen x="0" y="0" width="1024" height="738" />
+    </state>
+    <state x="168" y="165" key="run.anything.popup/0.0.1024.738@0.0.1024.738" timestamp="1604912445984" />
+    <state x="175" y="29" width="672" height="708" key="search.everywhere.popup" timestamp="1605233958845">
+      <screen x="0" y="0" width="1024" height="738" />
+    </state>
+    <state x="175" y="28" width="672" height="678" key="search.everywhere.popup/0.0.1024.707@0.0.1024.707" timestamp="1604475948399" />
+    <state x="175" y="29" width="672" height="708" key="search.everywhere.popup/0.0.1024.738@0.0.1024.738" timestamp="1605233958845" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/1SSM-MAVEN-PARENT/EASYMALL-SSM/src/main/java/cn/tedu/service/UserServiceImpl.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.2.5.RELEASE/spring-boot-autoconfigure-2.2.5.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/AutoConfigurationImportSelector.java</url>
+          <line>115</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/2.2.2.RELEASE/spring-cloud-commons-2.2.2.RELEASE.jar!/org/springframework/cloud/client/loadbalancer/LoadBalancerInterceptor.class</url>
+          <line>29</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-ribbon/2.2.2.RELEASE/spring-cloud-netflix-ribbon-2.2.2.RELEASE.jar!/org/springframework/cloud/netflix/ribbon/RibbonLoadBalancerClient.class</url>
+          <line>62</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/3SPRINGCLOUD-PARENT/gateway-server/src/main/java/cn/tedu/filter/MyFilter.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/3SPRINGCLOUD-PARENT/gateway-server/src/main/java/cn/tedu/filter/MyFilter.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/redis/clients/jedis/3.1.0/jedis-3.1.0.jar!/redis/clients/jedis/ShardedJedis.class</url>
+          <line>42</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/5SECURITY-PARENT/spring-security-demo01/src/main/java/cn/tedu/MyUserDetailsService.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

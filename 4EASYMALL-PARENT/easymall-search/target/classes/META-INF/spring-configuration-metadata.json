@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "easymall.es",
+      "type": "cn.tedu.search.config.ESConfig",
+      "sourceType": "cn.tedu.search.config.ESConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "easymall.es.cluster-name",
+      "type": "java.lang.String",
+      "sourceType": "cn.tedu.search.config.ESConfig"
+    },
+    {
+      "name": "easymall.es.nodes",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "cn.tedu.search.config.ESConfig"
+    }
+  ],
+  "hints": []
+}

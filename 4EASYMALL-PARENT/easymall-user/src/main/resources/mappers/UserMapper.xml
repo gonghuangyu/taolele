@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="cn.tedu.user.mapper.UserMapper">
+    <!--查询用户名重复-->
+    <select id="selectCountByUsername" resultType="int">
+        select count(user_id) from t_user
+        where user_name=#{userName};
+    </select>
+    <!--新增注册user数据-->
+    <insert id="insertUser">
+        insert into t_user (user_id,user_password,user_name,user_email,user_nickname)
+        values (#{userId},#{userPassword},#{userName},#{userEmail},#{userNickname});
+    </insert>
+    <select id="selectExistByUsernameAndPassword"
+            resultType="User">
+        select * from t_user where user_name=#{userName}
+        and user_password=#{userPassword};
+    </select>
+</mapper>
